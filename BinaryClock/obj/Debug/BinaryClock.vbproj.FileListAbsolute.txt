@@ -1,0 +1,15 @@
+D:\Daten\vbnet_projekte\BinaryClock\BinaryClock\bin\Debug\BinaryClock.exe.config
+D:\Daten\vbnet_projekte\BinaryClock\BinaryClock\bin\Debug\BinaryClock.exe
+D:\Daten\vbnet_projekte\BinaryClock\BinaryClock\bin\Debug\BinaryClock.pdb
+D:\Daten\vbnet_projekte\BinaryClock\BinaryClock\bin\Debug\BinaryClock.xml
+D:\Daten\vbnet_projekte\BinaryClock\BinaryClock\obj\Debug\BinaryClock.main.resources
+D:\Daten\vbnet_projekte\BinaryClock\BinaryClock\obj\Debug\BinaryClock.Resources.resources
+D:\Daten\vbnet_projekte\BinaryClock\BinaryClock\obj\Debug\BinaryClock.vbproj.GenerateResource.Cache
+D:\Daten\vbnet_projekte\BinaryClock\BinaryClock\obj\Debug\BinaryClock.exe
+D:\Daten\vbnet_projekte\BinaryClock\BinaryClock\obj\Debug\BinaryClock.xml
+D:\Daten\vbnet_projekte\BinaryClock\BinaryClock\obj\Debug\BinaryClock.pdb
+D:\Daten\vbnet_projekte\BinaryClock\BinaryClock\obj\Debug\BinaryClock.infobox.resources
+D:\Daten\vbnet_projekte\BinaryClock\BinaryClock\obj\Debug\BinaryClock.dot_style.resources
+D:\Daten\vbnet_projekte\BinaryClock\BinaryClock\obj\Debug\BinaryClock.binary_style.resources
+D:\Daten\vbnet_projekte\BinaryClock\BinaryClock\obj\Debug\BinaryClock.win_block_style.resources
+D:\Daten\vbnet_projekte\BinaryClock\BinaryClock\obj\Debug\BinaryClock.wrist_watch.resources
