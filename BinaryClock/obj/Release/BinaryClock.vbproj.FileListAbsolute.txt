@@ -2,7 +2,6 @@ D:\Daten\vbnet_projekte\BinaryClock\BinaryClock\bin\Release\BinaryClock.exe.conf
 D:\Daten\vbnet_projekte\BinaryClock\BinaryClock\bin\Release\BinaryClock.exe
 D:\Daten\vbnet_projekte\BinaryClock\BinaryClock\bin\Release\BinaryClock.pdb
 D:\Daten\vbnet_projekte\BinaryClock\BinaryClock\bin\Release\BinaryClock.xml
-D:\Daten\vbnet_projekte\BinaryClock\BinaryClock\obj\Release\BinaryClock.vbprojResolveAssemblyReference.cache
 D:\Daten\vbnet_projekte\BinaryClock\BinaryClock\obj\Release\BinaryClock.binary_style.resources
 D:\Daten\vbnet_projekte\BinaryClock\BinaryClock\obj\Release\BinaryClock.dot_style.resources
 D:\Daten\vbnet_projekte\BinaryClock\BinaryClock\obj\Release\BinaryClock.infobox.resources
@@ -14,3 +13,4 @@ D:\Daten\vbnet_projekte\BinaryClock\BinaryClock\obj\Release\BinaryClock.vbproj.G
 D:\Daten\vbnet_projekte\BinaryClock\BinaryClock\obj\Release\BinaryClock.exe
 D:\Daten\vbnet_projekte\BinaryClock\BinaryClock\obj\Release\BinaryClock.xml
 D:\Daten\vbnet_projekte\BinaryClock\BinaryClock\obj\Release\BinaryClock.pdb
+D:\Daten\vbnet_projekte\BinaryClock\BinaryClock\obj\Release\BinaryClock.vbproj.CoreCompileInputs.cache
